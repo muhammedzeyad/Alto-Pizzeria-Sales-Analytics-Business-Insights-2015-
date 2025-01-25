@@ -7,7 +7,7 @@ Established in late 2013, Alto Pizzeria has become a well-known establishment in
 
 This report systematically analyzes the transaction data to extract key insights that will optimize menu offerings and enhance day-to-day operational efficiency. The data preparation, cleaning, and visualization for this analysis were conducted entirely in Excel. By analyzing key performance indicators (KPIs), we offer recommendations to drive sustained business growth and profitability.
 
-<img width="961" alt="Image" src="https://github.com/user-attachments/assets/4dbbe59d-f5be-4430-8c26-92cb1e894984" />
+<img width="1030" alt="Image" src="https://github.com/user-attachments/assets/0d9f0d4f-3cb0-4619-8629-637fc995ee06" />
 
 The Excel dashboard is available in the file **alto_pizzeria_final.xlsx** in the GitHub repository.
 
@@ -40,26 +40,26 @@ Regarding product performance, classic pizzas dominate both sales and revenue, a
 
 - **Sales consistently peak between 12 PM and 1 PM and between 4 PM and 7 PM**, making lunch and dinner-time the most profitable periods. The midday peak aligns with traditional lunch breaks for office workers and students, while the evening peak is driven by families and social gatherings. Sales exhibit a dip between 2 PM and 4 PM, when fewer people dine out, and undergo a steady decline after 7 PM as customers complete their evening meals and transition to other activities.
 
-<img width="680" alt="Image" src="https://github.com/user-attachments/assets/d29d6cc3-0b0d-483c-b482-cbdfb1bdcaf4" />
+<img width="680" alt="Image" src="https://github.com/user-attachments/assets/3a7cc2bf-17fb-4d05-8eed-2ad72a17bcd2" />
 
 - **Fridays and Saturdays generate the highest revenue**, with Friday nights showing the highest demand. This pattern is largely influenced by social dining habits, weekend relaxation, and increased group outings. On the other hand, Sundays and Mondays record the lowest sales volume, likely due to fewer social gatherings and the tendency for customers to stay home.
 
 
-<img width="634" alt="Image" src="https://github.com/user-attachments/assets/b872f463-fcb0-4d69-8f36-2aa9bc9eefb6" />
+<img width="634" alt="Image" src="https://github.com/user-attachments/assets/e9c859dd-8d45-4606-a17d-2b2979392b84" />
 
 
 ### **Pizza Category and Size Performance**
 
 - **Classic pizzas dominate sales and revenue, making up the highest proportion in both metrics**. That being said, all pizza categories are very close in terms of distribution,  indicating diverse customer preferences and strong-performing pizzas within each category.
 
-<img width="970" alt="Image" src="https://github.com/user-attachments/assets/f875b826-f420-4efb-a9d8-3dfc521f0c50" />
+<img width="970" alt="Image" src="https://github.com/user-attachments/assets/a896dd98-7cdf-4764-ab47-74fcab79166d" />
 
 - **The Classic Deluxe Pizza is the best seller in terms of pizzas sold, followed closely by the Barbecue Chicken Pizza**. The Brie Carre Pizza is the worst-selling item, with only 0.99% of total sales and The Mediterranean Pizza, with 1.88% of sales.
 
-<img width="937" alt="Image" src="https://github.com/user-attachments/assets/55dc6be4-0fed-458e-bfdb-b78b269c3d1a" />
+<img width="937" alt="Image" src="https://github.com/user-attachments/assets/03fbe0d2-dc62-47e9-80f2-0d9315781158" />
 
 - **Large-sized pizzas generate the most revenue**, contributing a whopping 45.89% of total revenue. Medium- and small-sized pizzas also contribute significantly to revenue, accounting for 30.49% and 21.77% of sales, respectively.
-<img width="432" alt="Image" src="https://github.com/user-attachments/assets/b69837b8-d23e-48cf-aecd-ed95a945f882" />
+<img width="432" alt="Image" src="https://github.com/user-attachments/assets/4674297e-3a41-4bc7-9f73-b899aec2688a" />
 
 - **X-Large and XX-Large pizzas contribute minimally to revenue**, with 1.72% and 0.12%, respectively.
 
